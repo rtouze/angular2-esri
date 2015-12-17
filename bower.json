@@ -1,0 +1,24 @@
+{
+  "name": "angular2-tour-of-heroes",
+  "description": "Angular2 Tour of Heroes",
+  "main": "app/boot.js",
+  "authors": [
+    "Nathan Le Ray"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "dojo": "v1.10.4/esri-3.14.0"
+  }
+}
